@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\adsi\Downloads\holi\.metadata\.plugins\org.eclipse.jdt.core
+4071823875.index

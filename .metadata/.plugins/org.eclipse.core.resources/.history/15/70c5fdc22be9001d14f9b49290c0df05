@@ -1,0 +1,11 @@
+
+
+public class Main {
+
+	public void main() {
+		// TODO Auto-generated method stub
+		Procesos misProcesos = new Procesos();
+		misProcesos.iniciar();
+	}
+
+}
